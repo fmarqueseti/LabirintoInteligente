@@ -14,7 +14,7 @@ Para saber mais ou adiquirir o jogo de tabuleiro, acesse o site da [Carimbras](h
 * Geração aleatória de padrões para o jogo Labirinto Inteligente
 * Interface simples e intuitiva
 
-#Licença
+# Licença
 * MIT
 
 # Linguagem
@@ -23,5 +23,5 @@ Para saber mais ou adiquirir o jogo de tabuleiro, acesse o site da [Carimbras](h
 # Requisitos
 * Embarcadero Delphi 14.4 Community Edition ou superior
 
-#Contribuições
+# Contribuições
 * Sinta-se à vontade para contribuir com o projeto, sugerir melhorias e reportar bugs. Todas as contribuições serão bem-vindas!
